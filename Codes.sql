@@ -3330,10 +3330,6 @@ select sum(otp_entered) from trips_details4 ;
 
 select sum(end_ride) from trips_details4 ;
 
--- cancelled bookings by driver
-
-
--- cancelled bookings by customer
 
 
 -- average distance per trip
