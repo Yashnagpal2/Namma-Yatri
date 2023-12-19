@@ -15,7 +15,9 @@ power_bi_dashboards: Holds Power BI files for visualizing sales and other releva
 ## Dependencies
 
 SQL database (e.g., MySQL, PostgreSQL)
+
 Power BI Desktop
+
 Excel file with Namma Yatri app data
 
 ## Contributing
