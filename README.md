@@ -7,7 +7,9 @@ This repository contains the source code and documentation for the Namma Yatri F
 Project Structure
 
 data_extraction: Contains scripts for extracting data from the Namma Yatri app or upload the Excel file.
+
 sql_analytics: Includes SQL scripts for processing and analyzing the extracted data.
+
 power_bi_dashboards: Holds Power BI files for visualizing sales and other relevant metrics.
 
 Dependencies
